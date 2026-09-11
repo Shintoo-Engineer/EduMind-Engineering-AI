@@ -1,0 +1,6 @@
+{
+  "name": "EduMind Engineering AI",
+  "description": "AI-Powered Academic, Coding, Project & Career Ecosystem with Student Intelligence Profile for Engineering Students and Faculty",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
