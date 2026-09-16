@@ -1,20 +1,31 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://ai.google.dev/static/site-assets/images/share-ais-513315318.png" />
-</div>
+# 🎓 EduMind Engineering AI
 
-# Run and deploy your AI Studio app
+**EduMind Engineering AI** is an AI-powered academic assistant designed for engineering students and faculty.
 
-This contains everything you need to run your app locally.
+### ✨ Features
 
-View your app in AI Studio: https://ai.studio/apps/24848ddd-2934-4886-a0f4-0d8afc0bec3b
+* 🤖 AI Tutor & Study Assistant
+* 📝 Adaptive Quiz & Exam Preparation
+* 💻 Coding Mentor
+* 🔬 Lab & Project Assistant
+* 🎤 Viva Simulator
+* 📊 Student Intelligence Dashboard
+* 📚 RAG-based Academic Knowledge Library
+* 💼 Career Guidance
 
-## Run Locally
+### 🛠️ Tech Stack
 
-**Prerequisites:**  Node.js
+**React + Vite + TypeScript + Node.js + Express + Google Gemini AI**
 
+### 🚀 Run Locally
 
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+```bash
+npm install
+npm run dev
+```
+
+### 👩‍💻 Developed By
+
+**Shintoo S. S.**
+
+**GitHub:** Shintoo-Engineer/EduMind-Engineering-AI
